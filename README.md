@@ -1,16 +1,17 @@
-## Hi there 👋
+# Madhu
 
-<!--
-**smadhu6364-beep/smadhu6364-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student at Dublin City University (DCU).
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on applied Python projects, with an emphasis on reproducible research. Current project: public-reproducible-benchmark (https://github.com/smadhu6364-beep/public-reproducible-benchmark), a Python benchmarking repo. Also building ttp, a travel application project (private).
+
+## Skills
+
+Python, Git, GitHub.
+
+## Contact
+
+Email: smadhu6364@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smadhu6364-beep&show_icons=true&theme=default&hide_title=true)
