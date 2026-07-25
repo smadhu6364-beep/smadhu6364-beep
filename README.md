@@ -13,5 +13,3 @@ Python, Git, GitHub.
 ## Contact
 
 Email: smadhu6364@gmail.com
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smadhu6364-beep&show_icons=true&theme=default&hide_title=true)
