@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-**Languages:** Python, JavaScript, SQL
-**Frameworks & Libraries:** React, FastAPI, Django, Leaflet.js
-**AI / ML:** Gemini API, Prompt Engineering, scikit-learn
-**Data & Infra:** Firebase, REST APIs, Docker
-**Tools:** Git, GitHub
-**Project delivery:** solo project scoping and delivery, requirements analysis, technical documentation, experimental design
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks & Libraries:** React, FastAPI, Django, Leaflet.js
+- **AI / ML:** Gemini API, Prompt Engineering, scikit-learn
+- **Data & Infra:** Firebase, REST APIs, Docker
+- **Tools:** Git, GitHub
+- **Project delivery:** solo project scoping and delivery, requirements analysis, technical documentation, experimental design
 
 *(That last line is deliberately modest: it reflects delivering CivicPulse and the benchmark study end to end, not a formal project-management job title or certification.)*
 
@@ -50,23 +50,16 @@
 ## 📌 Featured Projects
 
 **[CivicPulse](https://github.com/smadhu6364-beep/civicpulse)**
-A civic issue reporting platform. A resident uploads a photo of a local problem; Gemini Vision classifies the issue, scores its severity, identifies the responsible municipal authority, and drafts a formal complaint letter automatically. Every report lands on a live map where the community can verify and upvote it.
-`React` `FastAPI` `Gemini Vision` `Firebase` `Leaflet.js`
+<br>A civic issue reporting platform. A resident uploads a photo of a local problem; Gemini Vision classifies the issue, scores its severity, identifies the responsible municipal authority, and drafts a formal complaint letter automatically. Every report lands on a live map where the community can verify and upvote it.
+<br>`React` `FastAPI` `Gemini Vision` `Firebase` `Leaflet.js`
 
 **[LLM Risk Register Benchmark](https://github.com/smadhu6364-beep/public-reproducible-benchmark)**
-Code and data for an IEEE conference paper benchmarking three LLMs across three prompting strategies on automated risk register generation from real project planning documents (21 World Bank and UK government sources). Full reproducible pipeline, strict no-leakage evaluation design, and 438 unit tests.
-`Python` `LLM Evaluation` `Research`
+<br>Code and data for an IEEE conference paper benchmarking three LLMs across three prompting strategies on automated risk register generation from real project planning documents (21 World Bank and UK government sources). Full reproducible pipeline, strict no-leakage evaluation design, and 438 unit tests.
+<br>`Python` `LLM Evaluation` `Research`
 
 **[Foodiepy](https://github.com/smadhu6364-beep/foodiepy)**
-A Django food-demand forecasting and inventory management app, built together with three other contributors. A gradient boosting model forecasts fulfilment-center order volume; a separate module lets restaurant owners manage inventory, customers, and orders.
-`Django` `scikit-learn` `SQLite`
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smadhu6364-beep&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Madhu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smadhu6364-beep&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
+<br>A Django food-demand forecasting and inventory management app, built together with three other contributors. A gradient boosting model forecasts fulfilment-center order volume; a separate module lets restaurant owners manage inventory, customers, and orders.
+<br>`Django` `scikit-learn` `SQLite`
 
 ## 🌐 Connect With Me
 
