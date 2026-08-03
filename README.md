@@ -10,7 +10,7 @@
 
 - 🎓 MSc student at Dublin City University
 - 🛠️ Building full-stack products with applied AI: CivicPulse pairs Gemini Vision with a FastAPI + React stack to turn a photo into a routed municipal complaint
-- 🔬 Research background in LLM evaluation: co-author on an IEEE benchmark paper testing three LLMs across three prompting strategies on real government planning documents
+- 🔬 Research background in LLM evaluation: co-author on a benchmark study testing three LLMs across three prompting strategies on real government planning documents, targeting an IEEE conference submission
 - 🧪 Care about reproducibility: the benchmark repo ships a strict no-leakage evaluation design and 438 unit tests, not just a notebook
 - 📍 Based in Dublin, Ireland
 - 📫 Reach me at smadhu6364@gmail.com
@@ -56,7 +56,7 @@
 <br>`React` `FastAPI` `Gemini Vision` `Firebase` `Leaflet.js`
 
 **[LLM Risk Register Benchmark](https://github.com/smadhu6364-beep/public-reproducible-benchmark)**
-<br>Code and data for an IEEE conference paper benchmarking three LLMs across three prompting strategies on automated risk register generation from real project planning documents (21 World Bank and UK government sources). Full reproducible pipeline, strict no-leakage evaluation design, and 438 unit tests.
+<br>Code and data for a benchmark study targeting an IEEE conference submission: three LLMs evaluated across three prompting strategies on automated risk register generation from real project planning documents (21 World Bank and UK government sources). Full reproducible pipeline, strict no-leakage evaluation design, and 438 unit tests.
 <br>`Python` `LLM Evaluation` `Research`
 
 **[Roam](https://github.com/smadhu6364-beep/roam-travel)**
