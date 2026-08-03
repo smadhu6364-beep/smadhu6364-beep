@@ -48,7 +48,11 @@ def describe(event):
     payload = event.get("payload", {})
 
     if etype == "PushEvent":
-        n = len(payload.get("commits", []))
+        # "size" is the authoritative commit count for this push; the "commits"
+        # array is sometimes truncated or empty even when size is nonzero.
+        n = payload.get("size", len(payload.get("commits", [])))
+        if n == 0:
+            return f"{icon} Updated {repo_link}"
         word = "commit" if n == 1 else "commits"
         return f"{icon} Pushed {n} {word} to {repo_link}"
     if etype == "CreateEvent":
