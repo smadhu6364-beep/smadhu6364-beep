@@ -6,68 +6,52 @@
   </picture>
 </p>
 
-## 🌟 About Me
+I'm Madhu. I build data and AI-backed web apps, and I like being able to show that the numbers are right.
 
-- 🎓 MSc student at Dublin City University
-- 🛠️ Building full-stack products with applied AI: CivicPulse pairs Gemini Vision with a FastAPI + React stack to turn a photo into a routed municipal complaint
-- 🔬 Research background in LLM evaluation: co-author on a benchmark study testing three LLMs across three prompting strategies on real government planning documents, targeting an IEEE conference submission
-- 🧪 Care about reproducibility: the benchmark repo ships a strict no-leakage evaluation design and 438 unit tests, not just a notebook
-- 📍 Based in Dublin, Ireland
-- 📫 Reach me at smadhu6364@gmail.com
+## Now
 
-## 🛠️ Tech Stack
+- MSc in Business Analytics at Dublin City University (DCU), Dublin
+- Looking for data and analytics roles in Ireland
+<!-- Portfolio: coming soon -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries:** React, Next.js, FastAPI, Django, Leaflet.js
-- **AI / ML:** Gemini API, Prompt Engineering, scikit-learn
-- **Data & Infra:** Firebase, REST APIs, Docker
-- **Tools:** Git, GitHub, GitHub Actions
-- **Project delivery:** solo project scoping and delivery, requirements analysis, technical documentation, experimental design
-
-*(That last line is deliberately modest: it reflects delivering CivicPulse and the benchmark study end to end, not a formal project-management job title or certification.)*
-
-## 🚀 What I Do
-
-- ⚙️ Design and ship full-stack products end to end: frontend, backend, and AI integration
-- 🔬 Run reproducible ML/LLM evaluation research: no-leakage design, automated test suites
-- 🗺️ Build geospatial and real-time data apps: live maps, crowd-verified reporting
-- 🧪 Write tests, not just demos: the benchmark repo carries 438 of them
-- 📐 Scope and deliver multi-week technical projects solo, start to finish
-
-## 📌 Featured Projects
-
-**[CivicPulse](https://github.com/smadhu6364-beep/civicpulse)**
-<br>A civic issue reporting platform. A resident uploads a photo of a local problem; Gemini Vision classifies the issue, scores its severity, identifies the responsible municipal authority, and drafts a formal complaint letter automatically. Every report lands on a live map where the community can verify and upvote it.
-<br>`React` `FastAPI` `Gemini Vision` `Firebase` `Leaflet.js`
+## Selected work
 
 **[LLM Risk Register Benchmark](https://github.com/smadhu6364-beep/public-reproducible-benchmark)**
-<br>Code and data for a benchmark study targeting an IEEE conference submission: three LLMs evaluated across three prompting strategies on automated risk register generation from real project planning documents (21 World Bank and UK government sources). Full reproducible pipeline, strict no-leakage evaluation design, and 438 unit tests.
-<br>`Python` `LLM Evaluation` `Research`
+<br>Three LLMs and three prompting strategies compared on generating risk registers from 21 real project planning documents (World Bank and UK government). Full pipeline and 438 unit tests; the paper is targeting an IEEE conference.
+<br><sub>Python</sub>
 
-**[Roam](https://github.com/smadhu6364-beep/roam-travel)**
-<br>A trip-planning and booking UI: destination browsing, an itinerary builder, a cost calculator, and a full booking flow from review to confirmation. Frontend prototype built on Next.js 15 and React 19; flight search and payments are scaffolded but not yet wired to a live backend.
-<br>`Next.js` `React` `TypeScript` `Tailwind CSS`
+**[CivicPulse](https://github.com/smadhu6364-beep/civicpulse)**
+<br>Upload a photo of a local problem and Gemini Vision categorises it, rates severity, works out which authority is responsible and drafts the complaint. Reports go on a live map where neighbours can verify and upvote them.
+<br><sub>React, FastAPI, Gemini, Firebase, Leaflet</sub>
 
 **[Foodiepy](https://github.com/smadhu6364-beep/foodiepy)**
-<br>A Django food-demand forecasting and inventory management app, built together with three other contributors. A gradient boosting model forecasts fulfilment-center order volume; a separate module lets restaurant owners manage inventory, customers, and orders.
-<br>`Django` `scikit-learn` `SQLite`
+<br>Django app built with three other contributors. A gradient boosting model forecasts order volume for fulfilment centres, alongside inventory, customer and order management for restaurant owners.
+<br><sub>Django, scikit-learn, SQLite</sub>
 
-## 📈 Recent Activity
+**[Roam](https://github.com/smadhu6364-beep/roam-travel)**
+<br>Trip-planning and booking front end: destinations, itinerary builder, cost calculator and booking flow. Flight search and payments are scaffolded, not yet connected to a backend.
+<br><sub>Next.js 15, React 19, TypeScript, Tailwind CSS</sub>
+
+**[In-browser computer vision demos](https://github.com/smadhu6364-beep/aiml-project)**
+<br>Undergraduate project: body segmentation, face mesh, hand pose and object detection running live in the browser.
+<br><sub>TensorFlow.js, React</sub>
+
+## Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+## Recent activity
 
 <!--START_SECTION:activity-->
 - 🔨 Updated [`smadhu6364-beep/hotel_website`](https://github.com/smadhu6364-beep/hotel_website)
@@ -79,9 +63,6 @@
 _Last updated 2026-10-17 14:36 UTC_
 <!--END_SECTION:activity-->
 
-*(Updates automatically every 6 hours via [GitHub Actions](.github/workflows/update-activity.yml), pulled live from the GitHub API.)*
+## Contact
 
-## 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhu6364@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smadhu6364-beep)
+Email: [smadhu6364@gmail.com](mailto:smadhu6364@gmail.com)
