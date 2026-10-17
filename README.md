@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Data+and+AI-backed+web+apps;LLM+evaluation+with+438+unit+tests;MSc+Business+Analytics+%40+DCU%2C+Dublin;Open+to+data+and+analytics+roles+in+Ireland" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Data+and+AI-backed+web+apps;LLM+evaluation+with+456+unit+tests;MSc+Business+Analytics+%40+DCU%2C+Dublin;Open+to+data+and+analytics+roles+in+Ireland" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
@@ -32,9 +32,9 @@ I'm Madhu. I build data and AI-backed web apps, and I like being able to show th
 <td width="50%" valign="top">
 
 ### [LLM Risk Register Benchmark](https://github.com/smadhu6364-beep/public-reproducible-benchmark)
-Three LLMs and three prompting strategies compared on generating risk registers from 21 real project planning documents (World Bank and UK government). Full pipeline and 438 unit tests; the paper is targeting an IEEE conference.
+Three LLMs and three prompting strategies compared on generating risk registers from 21 real project planning documents (World Bank and UK government). Full pipeline and 456 unit tests; the paper is targeting an IEEE conference.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/tests-438-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-evaluation-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/tests-456-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/LLM-evaluation-8E75B2?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
