@@ -23,7 +23,7 @@ I'm Madhu. I build data and AI-backed web apps, and I like being able to show th
 
 - MSc in Business Analytics at Dublin City University (DCU), Dublin
 - Looking for data and analytics roles in Ireland
-<!-- Portfolio: coming soon -->
+- Portfolio: [smadhu6364-beep.github.io](https://smadhu6364-beep.github.io)
 
 ## Selected work
 
