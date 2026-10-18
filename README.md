@@ -98,13 +98,13 @@ Undergraduate project: body segmentation, face mesh, hand pose and object detect
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🔨 Updated [`smadhu6364-beep/aiml-project`](https://github.com/smadhu6364-beep/aiml-project)
-- 🌱 Created branch `modernise` in [`smadhu6364-beep/civicpulse`](https://github.com/smadhu6364-beep/civicpulse)
-- 🔨 Updated [`smadhu6364-beep/public-reproducible-benchmark`](https://github.com/smadhu6364-beep/public-reproducible-benchmark)
-- 🔨 Updated [`smadhu6364-beep/food-website`](https://github.com/smadhu6364-beep/food-website)
-- 🔨 Updated [`smadhu6364-beep/CPEMS-finall`](https://github.com/smadhu6364-beep/CPEMS-finall)
+- 🔨 Updated [`smadhu6364-beep/Chat_Bot`](https://github.com/smadhu6364-beep/Chat_Bot)
+- 🔨 Updated [`smadhu6364-beep/roam-travel`](https://github.com/smadhu6364-beep/roam-travel)
+- 🔨 Updated [`smadhu6364-beep/smadhu6364-beep`](https://github.com/smadhu6364-beep/smadhu6364-beep)
+- 🔨 Updated [`smadhu6364-beep/hotel_website`](https://github.com/smadhu6364-beep/hotel_website)
+- 🌱 Created branch `modernise` in [`smadhu6364-beep/aiml-project`](https://github.com/smadhu6364-beep/aiml-project)
 
-_Last updated 2026-10-18 15:03 UTC_
+_Last updated 2026-10-18 19:49 UTC_
 <!--END_SECTION:activity-->
 
 ## Contact
