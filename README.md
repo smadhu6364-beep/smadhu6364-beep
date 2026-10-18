@@ -98,13 +98,13 @@ Undergraduate project: body segmentation, face mesh, hand pose and object detect
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🔨 Updated [`smadhu6364-beep/hotel_website`](https://github.com/smadhu6364-beep/hotel_website)
-- 🌱 Created branch `master` in [`smadhu6364-beep/technical-seminar`](https://github.com/smadhu6364-beep/technical-seminar)
-- 🔨 Updated [`smadhu6364-beep/food-website`](https://github.com/smadhu6364-beep/food-website)
-- 🔨 Updated [`smadhu6364-beep/technical-seminar`](https://github.com/smadhu6364-beep/technical-seminar)
-- 🔨 Updated [`smadhu6364-beep/Chat_Bot`](https://github.com/smadhu6364-beep/Chat_Bot)
+- 🌱 Created branch `modernise` in [`smadhu6364-beep/Chat_Bot`](https://github.com/smadhu6364-beep/Chat_Bot)
+- 🔨 Updated [`khu590/portfolio`](https://github.com/khu590/portfolio)
+- 🔨 Updated [`smadhu6364-beep/smadhu6364-beep`](https://github.com/smadhu6364-beep/smadhu6364-beep)
+- 🔨 Updated [`smadhu6364-beep/aiml-project`](https://github.com/smadhu6364-beep/aiml-project)
+- 🔨 Updated [`smadhu6364-beep/CPEMS-finall`](https://github.com/smadhu6364-beep/CPEMS-finall)
 
-_Last updated 2026-10-18 02:00 UTC_
+_Last updated 2026-10-18 10:03 UTC_
 <!--END_SECTION:activity-->
 
 ## Contact
