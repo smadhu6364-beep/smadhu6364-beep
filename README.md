@@ -49,10 +49,10 @@ Upload a photo of a local problem and Gemini Vision categorises it, rates severi
 <tr>
 <td width="50%" valign="top">
 
-### [Foodiepy](https://github.com/smadhu6364-beep/foodiepy)
-Django app built with three other contributors. A gradient boosting model forecasts order volume for fulfilment centres, alongside inventory, customer and order management for restaurant owners.
+### [Irish property prices in SQL](https://github.com/smadhu6364-beep/irish-property-sql)
+SQL analysis of 812,018 home sales on Ireland's Property Price Register, 2010 to 2026. Eight query files cover cleaning, county trends, Dublin against the rest, new against second-hand homes, seasonality and rolling medians with window functions.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ Undergraduate project: body segmentation, face mesh, hand pose and object detect
 ## Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,django,sklearn,firebase,docker,git,githubactions&perline=12" alt="Python, TypeScript, JavaScript, React, Next.js, FastAPI, Django, scikit-learn, Firebase, Docker, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,firebase,docker,git,githubactions&perline=12" alt="Python, TypeScript, JavaScript, React, Next.js, FastAPI, Firebase, Docker, Git, GitHub Actions" />
 </p>
 
 ## On GitHub
