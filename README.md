@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Dublin%2C%20Ireland-0d1117?style=for-the-badge&labelColor=14B8A6" />
   <img src="https://img.shields.io/badge/Now-MSc%20Business%20Analytics%20%C2%B7%20DCU-0d1117?style=for-the-badge&labelColor=FF7A1A" />
   <a href="mailto:smadhu6364@gmail.com"><img src="https://img.shields.io/badge/Email-smadhu6364%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/madhu-sudhan-a966b3225/"><img src="https://img.shields.io/badge/LinkedIn-Madhu%20Sudhan-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
 </p>
 
 I'm Madhu. I build data and AI-backed web apps, and I like being able to show that the numbers are right.
@@ -109,4 +110,4 @@ _Last updated 2026-10-26 17:50 UTC_
 
 ## Contact
 
-Email: [smadhu6364@gmail.com](mailto:smadhu6364@gmail.com)
+Email: [smadhu6364@gmail.com](mailto:smadhu6364@gmail.com) · LinkedIn: [madhu-sudhan-a966b3225](https://www.linkedin.com/in/madhu-sudhan-a966b3225/)
