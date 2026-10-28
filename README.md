@@ -99,13 +99,13 @@ Undergraduate project: body segmentation, face mesh, hand pose and object detect
 ## Recent activity
 
 <!--START_SECTION:activity-->
+- 🔨 Updated [`khu590/portfolio`](https://github.com/khu590/portfolio)
 - 🔨 Updated [`smadhu6364-beep/smadhu6364-beep.github.io`](https://github.com/smadhu6364-beep/smadhu6364-beep.github.io)
 - 🔨 Updated [`smadhu6364-beep/smadhu6364-beep`](https://github.com/smadhu6364-beep/smadhu6364-beep)
 - 🌱 Created branch `master` in [`smadhu6364-beep/irish-property-sql`](https://github.com/smadhu6364-beep/irish-property-sql)
 - 🔨 Updated [`smadhu6364-beep/roam-travel`](https://github.com/smadhu6364-beep/roam-travel)
-- 🔨 Updated [`smadhu6364-beep/civicpulse`](https://github.com/smadhu6364-beep/civicpulse)
 
-_Last updated 2026-10-28 11:47 UTC_
+_Last updated 2026-10-28 17:35 UTC_
 <!--END_SECTION:activity-->
 
 ## Contact
