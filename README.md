@@ -42,6 +42,16 @@ I'm Madhu. I spent three years in travel operations at TripFactory and Thomas Co
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### [Irish rent tracker: an automated data pipeline](https://github.com/smadhu6364-beep/irish-rent-pipeline) 🆕
+Official RTB rent data (113,679 figures, 2008 to 2025) pulled from the CSO API, modelled as a star schema in DuckDB, analysed with SQL window functions and checked by 8 data-quality tests. GitHub Actions refreshes it every month. Found that Longford rents rose 157% since 2015 and Dublin's premium fell from 2.03x to 1.69x.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Star%20schema-15181d?style=flat-square" />
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Irish property prices in SQL](https://github.com/smadhu6364-beep/irish-property-sql)
