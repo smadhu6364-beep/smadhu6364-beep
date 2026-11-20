@@ -35,6 +35,7 @@ I'm Madhu. I spent three years in travel operations at TripFactory and Thomas Co
 ## 🏁 Podium: writing and research
 
 - **[How We Caught an LLM Scoring Bug and Fixed It Without Compromising Our Research](https://hackernoon.com/how-we-caught-an-llm-scoring-bug-and-fixed-it-without-compromising-our-research)**: HackerNoon, Oct 2026, with Kruthik Jadhav. A "0 out of 42" model failure that turned out to be our own parser.
+- **[A Journal Asked for Three Seeds. We Had a Laptop and €0](https://hackernoon.com/a-journal-asked-for-three-seeds-we-had-a-laptop-and-euro0)**: HackerNoon, Nov 2026, with Kruthik Jadhav. How we reran a study three times on free GPUs to meet a reviewer's request.
 - **Benchmark Artefacts in Automated Vulnerability Detection: A Diagnostic Study of the Juliet C/C++ Test Suite**: K. Jadhav and M. Sudhan, CSNet 2026 (10th Cyber Security in Networking Conference). An extended journal version is in progress.
 
 ## 🏎️ Selected work
