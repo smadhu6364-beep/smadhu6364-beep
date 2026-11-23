@@ -2,19 +2,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Madhu Sudhan, MSc Business Analytics at Dublin City University" src="light.svg" width="100%">
+    <img alt="Madhu Sudhan Srinivas, MSc Business Analytics at Dublin City University" src="light.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=22&pause=1300&color=E10600&center=true&vCenter=true&width=700&lines=Data+analyst+in+the+making+%7C+MSc+%40+DCU+Dublin;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Published+on+LLM+evaluation+and+benchmark+validity;Open+to+analyst+roles+and+internships+in+Ireland" alt="Typing intro" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=22&pause=1300&color=E10600&center=true&vCenter=true&width=700&lines=Data+analyst+in+the+making+%7C+MSc+%40+DCU+Dublin;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Published+on+LLM+evaluation+and+benchmark+validity;Open+to+graduate+analyst+roles+in+Dublin" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Grid-Dublin%2C%20Ireland-15181d?style=for-the-badge&labelColor=E10600" />
   <img src="https://img.shields.io/badge/Now-MSc%20Business%20Analytics%20%C2%B7%20DCU-15181d?style=for-the-badge&labelColor=E10600" />
   <a href="mailto:smadhu6364@gmail.com"><img src="https://img.shields.io/badge/Email-smadhu6364%40gmail.com-15181d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/madhu-sudhan-a966b3225/"><img src="https://img.shields.io/badge/LinkedIn-Madhu%20Sudhan-15181d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/madhu-sudhan-a966b3225/"><img src="https://img.shields.io/badge/LinkedIn-Madhu%20Sudhan%20Srinivas-15181d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="https://smadhu6364-beep.github.io"><img src="https://img.shields.io/badge/Portfolio-Albert%20Park%20edition-15181d?style=for-the-badge&logo=formula1&logoColor=white&labelColor=E10600" /></a>
 </p>
 
@@ -27,7 +27,7 @@ I'm Madhu. I spent three years in travel operations at TripFactory and Thomas Co
 | | |
 |---|---|
 | 🎓 **Studying** | MSc Business Analytics, Dublin City University (Sep 2026 – Aug 2027) |
-| 🔎 **Looking for** | Data / business / BI analyst roles, internships and graduate programmes in Ireland |
+| 🔎 **Looking for** | Graduate data, business and BI analyst roles and 2027 graduate programmes in Ireland |
 | 🕒 **Availability** | Part-time now (up to 20 h/week in term, full-time in holidays); full-time from Sep 2027 |
 | 🛂 **Right to work** | Stamp 2 now; eligible for Stamp 1G after graduation (Third Level Graduate Programme, no employer sponsorship needed) |
 | 📍 **Based in** | Dublin, open to on-site or hybrid |
